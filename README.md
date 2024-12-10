@@ -6,3 +6,6 @@ Utilizando 16 push buttons ligados como uma matriz fizemos uma calculadora que p
 
 Modelo do circuito feito no tinkercad:
 ![WhatsApp Image 2024-11-19 at 21 25 52](https://github.com/user-attachments/assets/dfb3cd21-c20b-4233-86e5-4807a89b01f2)
+
+
+Inspirado nesse video: https://www.youtube.com/watch?v=1WYdxyI2j1Q
