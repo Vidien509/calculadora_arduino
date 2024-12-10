@@ -4,10 +4,10 @@ calculadora em arduino
 
 Utilizando 16 push buttons ligados como uma matriz fizemos uma calculadora que possui numeros de 0 a 9, botões de operações (+, -, *, /) e botões de = e C.
   • Os botões estão dispostos nessa organização:
-    {'1','2','3','+'}
-    {'4','5','6','-'}
-    {'7','8','9','*'}
-    {'C','0','=','/'}
+    {'1','2','3','+'}\n
+    {'4','5','6','-'}\n
+    {'7','8','9','*'}\n
+    {'C','0','=','/'}\n
   • Sendo que cada botão representa a função da sua respectiva posição.
 
 Modelo do circuito feito no tinkercad:
